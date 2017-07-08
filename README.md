@@ -1,2 +1,3 @@
 # Snake
-Compile gcc IDE dev c
+Compiler: gcc 
+IDE: dev c
